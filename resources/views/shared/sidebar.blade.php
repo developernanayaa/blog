@@ -17,6 +17,7 @@
                     <ul class="list-unstyled">
                         <li><a href="{{url(route('article.create'))}}">Create new</a></li>
                         <li><a href="{{url(route('article.index'))}}">View All Articles</a></li>
+                        <li><a href="/myarticles">My articles</a></li>
 
                     </ul>
                 </li>
